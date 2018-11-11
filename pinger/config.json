@@ -1,0 +1,7 @@
+{
+	"delayValid": 300,
+	"delayInvalid": 10,
+	"threshold": 0.1,
+	"mongoClient": "127.0.0.1",
+	"mongoPort": 27017
+}
